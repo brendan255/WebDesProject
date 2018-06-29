@@ -1,0 +1,10 @@
+/* Layout styles */
+
+body {
+margin: 0px auto;
+padding: 0px;
+width: 100%;
+max-width: 1355px;
+min-width: 250px;
+font-family: Times;
+}

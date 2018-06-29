@@ -1,0 +1,292 @@
+
+/* Heading styles */
+
+#LOGO{
+  width: 1355px;
+  height: 200px;
+}
+
+#CLINIC{
+  width: 200px;
+  height: 300px;
+  text-align: center;
+}
+
+#intro{
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+#paragraph{
+  font-size: 22px;
+  text-align: center;
+  color: white;
+}
+
+ #MAP{
+  width: 800px;
+  height: 450px;
+  padding-right: 50px;
+  padding-left: 100px;
+  padding-top: 14px;
+  padding-bottom: 50px;
+  float:left;
+}
+
+#MAPS{
+  float: left;
+  width: 800px;
+  height: 450px;
+  padding-right: 50px;
+  padding-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+#ConUs{
+  padding-left: 50px;
+}
+
+#PIC1, #PIC2, #PIC3, #PIC4, #PIC5{
+  width:300px;
+  height: 200px;
+}
+
+#BANNER{
+  width: 1356px;
+  height: 550px;
+}
+
+#DOC{
+  width: 200px;
+  height: 300px;
+  float: left;
+  padding-left: 100px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+
+#info{
+  padding-left: 100px;
+  text-align: left;
+}
+
+#GRAY{
+  width: 1355px;
+  height: 100px;
+  position: absolute;
+  z-index: -1;
+}
+
+#GRAYREV{
+  width: 1355px;
+  height: 80px;
+}
+
+#TEAL{
+  width: 1200px;
+  height: 500px;
+  position: absolute;
+  z-index: -1;
+  padding-top: 100px;
+  padding-left: 75px;
+}
+
+#WHITE{
+  width: 1200px;
+  height: 325px;
+  position: absolute;
+  z-index: -1;
+  padding-left: 75px;
+  padding-top: 40px;
+}
+
+#WHITE2{
+  width: 1200px;
+  height: 325px;
+  position: absolute;
+  z-index: -1;
+  padding-left: 75px;
+  padding-top: 400px;
+}
+#WHITE3{
+  width: 1200px;
+  height: 325px;
+  position: absolute;
+  z-index: -1;
+  padding-left: 75px;
+  padding-top: 750px;
+}
+
+#WHITE4{
+  width: 1200px;
+  height: 325px;
+  position: absolute;
+  z-index: -1;
+  padding-left: 75px;
+  padding-top: 1100px;
+}
+
+#WHITE5{
+  width: 1200px;
+  height: 325px;
+  position: absolute;
+  z-index: -1;
+  padding-left: 75px;
+  padding-top: 1450px;
+}
+
+#about{
+  float: left;
+}
+
+#h1{
+  float: center;
+  text-align: center;
+}
+
+#blue{
+  color:blue;
+}
+
+#orange{
+  color:orange;
+}
+#red{
+  color:red;
+}
+
+#h2services{
+text-align: center;
+}
+
+#ORALP, #RESTORATION, #DENTCON, #RETAINERS, #RPD{
+  width: 350px;
+  height:200px;
+  padding-left: 150px;
+  padding-right: 20px;
+  float: left;
+}
+
+#par{
+  font-size: 16px;
+}
+
+#h1services{
+  font-size: 50px;
+  font-family: Serif;
+  color: #008080;
+}
+
+/*----------------------------------------------*/
+/* Navigation list styles */
+
+#up ul {
+
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color:#008080;
+    overflow: hidden;
+    text-align: center;    
+}
+
+#up li {
+
+    display: inline-block;
+}
+
+#up li a {
+    display: block;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 25px;
+ 
+}
+
+#up li a:hover {
+    background-color: gray;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    transition-duration: 0.5s;
+    transform: scale(1.3);  
+}
+
+#footer1 ul {
+    list-style:none;
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+
+#footer1 li {
+  display:inline;
+    border-right: 1px solid white;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+#footer1 li:last-child { 
+    border: 0px;
+ }
+
+#footer1 li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 50px 16px;
+    padding-bottom: 0px;
+    text-decoration: none;
+}
+
+#footer1 li a:hover {
+    color: blue;
+}
+
+/*----------------------------------------------*/
+/* Footer styles */
+
+#upper{
+   background-color: #008080;
+   color: white;
+   color: rgba(255, 255, 255, 0.8);
+   font: normal small-caps 0.8em/4em 'Times New Roman', Times, serif;
+   text-align: center;
+}
+
+#others2{
+
+  background-color: #008080;
+  float: left;
+  width: 1355px;
+  height: 390px;
+}
+
+#scheduleinfo{
+  text-align: center;
+  float: left;
+  color: white;
+  padding-left: 240px;
+  padding-top: 20px;
+}
+
+#contactinfo{
+  text-align: center;
+  float: left;
+  color: white;
+  padding-left: 130px;
+  padding-top: 20px;
+}
+
+#Service{
+  text-align: center;
+  float: left;
+  color: white;
+  padding-left: 170px;
+  padding-right: 250px;
+  padding-top: 20px;
+}
+
